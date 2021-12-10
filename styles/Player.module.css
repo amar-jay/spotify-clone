@@ -1,3 +1,12 @@
 .player {
-    
+   display: flex;
+   align-items: center;
+   flex-direction: row;
+   justify-content: space-between;
+   color: blue;
+   font-weight: 600;   
+}
+
+.player>* {
+    padding: 0 3rem;
 }
