@@ -1,0 +1,42 @@
+.sidebar {
+  margin-left: 0;
+  padding: 1rem;
+  background-color: #ddd;
+  width: 15rem;
+  min-height: 90vh;
+}
+
+.sidebarblack {
+  margin-left: 0;
+  padding: 1rem;
+  background-color: black;
+  width: 15rem;
+  min-height: 90vh;
+}
+
+
+.sidebar__Button {
+    width: 10rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    background-color: #222;
+    justify-content: space-between;
+    margin: .5rem 0;
+    font-size: small;
+    color: #fff;
+
+  }
+
+.sidebar__Button:hover {
+  color: blue;
+  width: 10rem;
+
+  }
+  
+
+.sidebar__Button>:first-child {
+  left: 0;
+  margin-right: 2rem ;
+  }
+

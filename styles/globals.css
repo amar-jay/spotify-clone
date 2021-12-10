@@ -14,3 +14,16 @@ a {
 * {
   box-sizing: border-box;
 }
+
+h2 {
+  font-size: medium;
+  color: #0070f3;
+}
+
+.section {
+  margin-bottom: 1.5rem;
+}
+
+
+
+/* Component design */
